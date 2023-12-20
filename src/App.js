@@ -1,4 +1,4 @@
-import UseState from './components/UseState';
+import UseState from "./components/UseState";
 
 function App() {
   return <UseState />;
